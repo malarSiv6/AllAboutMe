@@ -24,7 +24,7 @@ struct ContentView: View {
                 Text("Click me!")
                 .foregroundColor(.white)
                 .padding()
-                .background(Color.pink)
+                .background(Color.blue)
                 .cornerRadius(10)
             }
             if showBio{
